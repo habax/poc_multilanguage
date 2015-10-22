@@ -1,0 +1,20 @@
+{
+  "MAIN_TITLE": "Hallo",
+  "MAIN_FOO": "mit Liebe.",
+  "MAIN_HTML5":"HTML5 Boilerplate ist eine professionelle Frontend-Template f&uuml;r den Aufbau schnell, robust und anpassungsf&auml;hig Web-Anwendungen oder Websites.",
+  "MAIN_ANGULAR":"Angularjs ist ein Toolset f&uuml;r den Bau der am besten zu Ihren Application Development Framework.",
+  "MAIN_KARMA":"Spektakul&auml;re Test Runner f&uuml;r JavaScript.",
+
+  "ABOUT_FOO" : "Dies ist das zu sehen.",
+
+  "FOOTER_TITLE" : "Von Habacuc mit Liebe",
+
+  "NAVPAGE_TITLE": "Sprache",
+  "NAVPAGE_HOME": "Zuhause",
+  "NAVPAGE_ABOUT": "&uuml;ber",
+  "NAVPAGE_CONTACT": "Ber&uuml;hrung",
+
+  "BUTTON_LANG_EN": "Englisch",
+  "BUTTON_LANG_DE": "Deutsch",
+  "BUTTON_LANG_ES": "Spanisch"
+}

@@ -1,0 +1,20 @@
+{
+  "MAIN_TITLE": "Hola Amigo",
+  "MAIN_FOO": "Esto es un p&aacute;rrafo.",
+  "MAIN_HTML5":"Esta es una plantilla profesional HTML5 para desarrollos rapidos en FrontEnd, es robusta y adaptable a toda aplicacion web. ",
+  "MAIN_ANGULAR":"Angularjs es un conjunto de herramientas para construir el entorno m&aacute;s adecuado para el desarrollo de su aplicaci&aacute;n.",
+  "MAIN_KARMA":"Espectacular gestor de pruebas unitarias para JavaScript.",
+
+  "ABOUT_FOO" : "Esta es la vista Acerca de...",
+
+  "FOOTER_TITLE" : "De Habacuc con Amor",
+
+  "NAVPAGE_TITLE": "Idioma",
+  "NAVPAGE_HOME": "Inicio",
+  "NAVPAGE_ABOUT": "Acerca",
+  "NAVPAGE_CONTACT": "Contacto",
+
+  "BUTTON_LANG_EN": "Ingles",
+  "BUTTON_LANG_DE": "Aleman",
+  "BUTTON_LANG_ES": "Espa&ntilde;ol"
+}

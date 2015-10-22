@@ -1,0 +1,20 @@
+{
+  "MAIN_TITLE": "'Allo, 'Allo!",
+  "MAIN_FOO": "This is a paragraph.",
+  "MAIN_HTML5":"HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.",
+  "MAIN_ANGULAR":"AngularJS is a toolset for building the framework most suited to your application development.",
+  "MAIN_KARMA":"Spectacular Test Runner for JavaScript.",
+
+  "ABOUT_FOO" : "This is the about view.",
+
+  "FOOTER_TITLE" : "From Habacuc with Love",
+
+  "NAVPAGE_TITLE": "Language",
+  "NAVPAGE_HOME": "Home",
+  "NAVPAGE_ABOUT": "About",
+  "NAVPAGE_CONTACT": "Contact",
+
+  "BUTTON_LANG_EN": "English",
+  "BUTTON_LANG_DE": "German",
+  "BUTTON_LANG_ES": "Spanish"
+}

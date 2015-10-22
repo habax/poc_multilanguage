@@ -9,7 +9,7 @@
  */
 angular.module('multilangApp')
   .controller('LanguagesettigsCtrl', function ($scope,$translate) {
-    
+
     $scope.changeLanguage = function (key) {
 		    $translate.use(key);
 	};

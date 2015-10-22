@@ -4,6 +4,9 @@
   "MAIN_HTML5":"HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.",
   "MAIN_ANGULAR":"AngularJS is a toolset for building the framework most suited to your application development.",
   "MAIN_KARMA":"Spectacular Test Runner for JavaScript.",
+  "MAIN" : {
+    "TITLE2" : "This is a paragraph."
+  },
 
   "ABOUT_FOO" : "This is the about view.",
 
@@ -14,7 +17,9 @@
   "NAVPAGE_ABOUT": "About",
   "NAVPAGE_CONTACT": "Contact",
 
-  "BUTTON_LANG_EN": "English",
-  "BUTTON_LANG_DE": "German",
-  "BUTTON_LANG_ES": "Spanish"
+  "BUTTON":{
+    "LANG_EN": "English",
+    "LANG_DE": "German",
+    "LANG_ES": "Spanish"
+  }
 }
